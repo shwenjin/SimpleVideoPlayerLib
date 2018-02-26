@@ -124,8 +124,3 @@ dependencies {
 <uses-permission android:name="android.permission.INTERNET" />
 ```
 
-
-##### 6、在proguard-rules.pro中添加混淆
-```
--keep class com.artifex.mupdfdemo.** {*;}
-```
